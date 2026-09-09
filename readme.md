@@ -12,4 +12,4 @@ Free to play. No account needed.
 
 **[Take flight at glider.game](https://glider.game/)**
 
-(Built with GPT6 Astra and then about an hour of tweaks).
+(Built with GPT6 Astra and then about an hour of manual ui tweaks).
