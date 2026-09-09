@@ -11,3 +11,5 @@ Launch into Glider, a free 3D flying game about finding your flow. Dive for spee
 Free to play. No account needed.
 
 **[Take flight at glider.game](https://glider.game/)**
+
+(Built with GPT6 Astra and then about an hour of tweaks).
