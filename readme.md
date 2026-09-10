@@ -16,7 +16,7 @@ Open your browser and take flight. No installation or account required.
 
 **Chase the perfect run.** Time your throw, trade altitude for speed, and thread glowing rings to build your multiplier. Boost through a narrow arch, slip past a stone pillar, and push for a new personal best. Every world keeps its own record, and every flight earns you another chance to go farther.
 
-**Or simply explore.** Free Flight gives you an open world and the freedom to turn in any direction. Follow a coastline, climb above the mountains, circle back to a favourite lake, or keep going until the landscape changes around you. No rings to follow. Nowhere you have to be.
+**Or simply explore.** Free Flight gives you an open world and the freedom to turn in any direction. Follow a coastline, climb above the mountains, pull a full loop through the sky, or circle back to a favourite lake. Discover a rare golden ring and collect 420 bonus coins, or keep going until the landscape changes around you. No route to follow. Nowhere you have to be.
 
 ## A world that keeps unfolding
 
@@ -99,7 +99,7 @@ There is always another fold to try, another record to beat, or another view wor
 
 Start on your computer. Pick up on your phone. Come back tomorrow with your progress waiting.
 
-Create a **save code and four-digit PIN**, then enter them once on each device you want to use. Your coins, unlocked gliders, personal bests, and settings **sync automatically in both directions** when you're online. No email, account registration, or save files to move around.
+Create a **save code and four-digit PIN**, then enter them once on each device you want to use. Your coins, unlocked gliders and worlds, personal bests, and settings **sync automatically in both directions** when you're online. No email, account registration, or save files to move around.
 
 ## Ready when you are
 
