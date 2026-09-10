@@ -20,15 +20,15 @@ Open your browser and take flight. No installation or account required.
 
 ## A world that keeps unfolding
 
-The landscapes are **procedurally generated as you fly**, stretching the journey beyond a fixed map. In Free Flight, ten biomes blend smoothly into one another: emerald coastlines, sunset mesas, frost mountains, amethyst dunes, moonlit wetlands, northern-light snowfields, cherry-blossom terraces, waterfall cliffs, glowing night forests, and volcanic ridges. Terrain, scenery, colour, and light shift together as you cross between them.
+The landscapes are **procedurally generated as you fly**, stretching the journey beyond a fixed map. In Free Flight, thirteen biomes blend smoothly into one another: emerald coastlines, sunset mesas, frost mountains, amethyst dunes, moonlit wetlands, northern-light snowfields, cherry-blossom terraces, waterfall cliffs, glowing night forests, volcanic ridges, stormy highlands, dense jungle canopy, and lotus-covered wetlands. Terrain, scenery, colour, and light shift together as you cross between them.
 
-Alongside that open world, eleven dedicated ring-chasing levels each have their own atmosphere. Pick your horizon:
+Alongside that open world, fifteen dedicated ring-chasing levels each have their own atmosphere. Pick your horizon:
 
 <table>
   <tr>
     <td width="50%">
       <a href="https://glider.game/"><img src="https://glider.game/levels/free-v1.webp" alt="Free Flight: mountains and lakes in an open procedural landscape" /></a>
-      <br /><strong>Free Flight</strong><br />An endless open world. Ten flowing biomes. Any direction you choose.
+      <br /><strong>Free Flight</strong><br />An endless open world. Thirteen flowing biomes. Any direction you choose.
     </td>
     <td width="50%">
       <a href="https://glider.game/"><img src="https://glider.game/levels/sunset-v1.webp" alt="Sunset Canyon: warm sandstone mesas and stone arches" /></a>
@@ -83,6 +83,26 @@ Alongside that open world, eleven dedicated ring-chasing levels each have their 
     <td width="50%">
       <a href="https://glider.game/"><img src="https://glider.game/levels/biolume-v1.webp" alt="Biolume Hollow: A living night forest of glowing fungi, fireflies, and luminous rivers." /></a>
       <br /><strong>Biolume Hollow</strong><br />A living night forest of glowing fungi, fireflies, and luminous rivers.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/mistwood-v1.webp" alt="Mistwood Canopy: jungle trees, hanging moss and golden light" /></a>
+      <br /><strong>Mistwood Canopy</strong><br />Weave through jungle crowns and discover hidden updrafts.
+    </td>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/stormpeak-v1.webp" alt="Stormpeak Highlands: rugged mountain ridges beneath rolling storm clouds" /></a>
+      <br /><strong>Stormpeak Highlands</strong><br />Ride shifting winds over rugged ridges beneath distant lightning.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/lotus-v1.webp" alt="Lotus Delta: giant lotus blossoms and winding jade waterways at dawn" /></a>
+      <br /><strong>Lotus Delta</strong><br />Skim jade waterways between giant lotus blossoms at first light.
+    </td>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/hyperspace-v1.webp" alt="Hyperspace: a rainbow highway through a star-filled sky" /></a>
+      <br /><strong>Hyperspace</strong><br />A rainbow highway beyond the stars, with 1.4× the speed.
     </td>
   </tr>
 </table>
