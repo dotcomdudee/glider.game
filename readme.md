@@ -20,15 +20,15 @@ Open your browser and take flight. No installation or account required.
 
 ## A world that keeps unfolding
 
-The landscapes are **procedurally generated as you fly**, stretching the journey beyond a fixed map. In Free Flight, five biomes blend smoothly into one another: emerald coastlines, sunset mesas, frost mountains, amethyst dunes, and moonlit wetlands. Terrain, scenery, colour, and light shift together as you cross between them.
+The landscapes are **procedurally generated as you fly**, stretching the journey beyond a fixed map. In Free Flight, ten biomes blend smoothly into one another: emerald coastlines, sunset mesas, frost mountains, amethyst dunes, moonlit wetlands, northern-light snowfields, cherry-blossom terraces, waterfall cliffs, glowing night forests, and volcanic ridges. Terrain, scenery, colour, and light shift together as you cross between them.
 
-Alongside that open world, seven dedicated ring-chasing levels each have their own atmosphere. Pick your horizon:
+Alongside that open world, eleven dedicated ring-chasing levels each have their own atmosphere. Pick your horizon:
 
 <table>
   <tr>
     <td width="50%">
       <a href="https://glider.game/"><img src="https://glider.game/levels/free-v1.webp" alt="Free Flight: mountains and lakes in an open procedural landscape" /></a>
-      <br /><strong>Free Flight</strong><br />An endless open world. Five flowing biomes. Any direction you choose.
+      <br /><strong>Free Flight</strong><br />An endless open world. Ten flowing biomes. Any direction you choose.
     </td>
     <td width="50%">
       <a href="https://glider.game/"><img src="https://glider.game/levels/sunset-v1.webp" alt="Sunset Canyon: warm sandstone mesas and stone arches" /></a>
@@ -63,6 +63,26 @@ Alongside that open world, seven dedicated ring-chasing levels each have their o
     <td width="50%">
       <a href="https://glider.game/"><img src="https://glider.game/levels/volcano-v1.webp" alt="Volcano Rush: dark basalt ridges surrounding glowing orange lava" /></a>
       <br /><strong>Volcano Rush</strong><br />Dark volcanic ridges, rising embers, and molten orange rivers.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/aurora-v1.webp" alt="Aurora Vale: Snowbound valleys and frozen lakes beneath shifting northern lights." /></a>
+      <br /><strong>Aurora Vale</strong><br />Snowbound valleys and frozen lakes beneath shifting northern lights.
+    </td>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/sakura-v1.webp" alt="Sakura Ridges: Cherry-blossom terraces, pale gold light, and petals on every updraft." /></a>
+      <br /><strong>Sakura Ridges</strong><br />Cherry-blossom terraces, pale gold light, and petals on every updraft.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/tidefall-v1.webp" alt="Tidefall Cliffs: Layered coastal cliffs and waterfalls pouring into turquoise water." /></a>
+      <br /><strong>Tidefall Cliffs</strong><br />Layered coastal cliffs and waterfalls pouring into turquoise water.
+    </td>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/biolume-v1.webp" alt="Biolume Hollow: A living night forest of glowing fungi, fireflies, and luminous rivers." /></a>
+      <br /><strong>Biolume Hollow</strong><br />A living night forest of glowing fungi, fireflies, and luminous rivers.
     </td>
   </tr>
 </table>
