@@ -2,7 +2,7 @@
 
 # Glider — One throw. Endless sky.
 
-**Free to play · Desktop & mobile · Procedural worlds · Cloud saves**
+**Free to play · Desktop, mobile & controller · Procedural worlds · Cloud saves**
 
 **[Fly now at glider.game →](https://glider.game/)**
 
@@ -12,23 +12,39 @@ Glider is an atmospheric 3D paper-plane game about the simple pleasure of flight
 
 Open your browser and take flight. No installation or account required.
 
-## Find your flow
+## Four ways to find your flow
 
-**Chase the perfect run.** Time your throw, trade altitude for speed, and thread glowing rings to build your multiplier. Boost through a narrow arch, slip past a stone pillar, and push for a new personal best. Every world keeps its own record, and every flight earns you another chance to go farther.
+**Free Roam — follow your curiosity.** An infinite open world and the freedom to turn in any direction. Follow a coastline, climb above the mountains, or circle back to a favourite lake. Follow optional golden rings as they appear ahead, build a streak for growing coin rewards, reach distance and altitude milestones, or keep going until the landscape changes around you. Enable loop-the-loop in Settings for a little extra freedom. No route to follow. Nowhere you have to be.
 
-**Or simply explore.** Free Flight gives you an open world and the freedom to turn in any direction. Follow a coastline, climb above the mountains, pull a full loop through the sky, or circle back to a favourite lake. Discover a rare golden ring and collect 420 bonus coins, or keep going until the landscape changes around you. No route to follow. Nowhere you have to be.
+**Free Race — chase the light.** Race through towering gates before they close, using your radar to find the next turn. Each gate starts at 100 coins and refills your boost; every ten consecutive gates raises your reward multiplier. Miss one and your streak resets, but the race keeps going. An endless route through a world that never stops unfolding.
+
+**Freestyle — make the scenery your playground.** Skim lakes, weave through trees, hug a ridge, and thread tight gaps to build a growing combo. Mix your moves, fly closer, and carry more speed to score higher. Fly clear for three seconds to bank your points and earn coins. Crash before banking and that combo is gone. Find your own line across an infinite, changing landscape.
+
+**Ring runs — chase the perfect flight.** Twenty dedicated levels, each with its own atmosphere. Time your throw, trade altitude for speed, and thread glowing rings to grow your multiplier. Seek out vivid bonus rings worth three times the usual reward. Boost through a narrow arch, slip past a stone pillar, and push for a new personal best. Keep the streak alive and the rewards keep climbing.
+
+Distance in Free Roam. Gates in Free Race. Banked points in Freestyle. A personal best for every level, and always something to come back for.
 
 ## A world that keeps unfolding
 
-The landscapes are **procedurally generated as you fly**, stretching the journey beyond a fixed map. In Free Flight, thirteen biomes blend smoothly into one another: emerald coastlines, sunset mesas, frost mountains, amethyst dunes, moonlit wetlands, northern-light snowfields, cherry-blossom terraces, waterfall cliffs, glowing night forests, volcanic ridges, stormy highlands, dense jungle canopy, and lotus-covered wetlands. Terrain, scenery, colour, and light shift together as you cross between them.
+The landscapes are **procedurally generated as you fly**, stretching the journey beyond a fixed map. Free Roam, Free Race, and Freestyle share thirteen biomes that blend smoothly into one another: emerald coastlines, sunset mesas, frost mountains, amethyst dunes, moonlit wetlands, northern-light snowfields, cherry-blossom terraces, waterfall cliffs, glowing night forests, volcanic ridges, stormy highlands, dense jungle canopy, and lotus-covered wetlands. Terrain, scenery, colour, and light shift together as you cross between them.
 
-Alongside that open world, fifteen dedicated ring-chasing levels each have their own atmosphere. Pick your horizon:
+**Twenty-three destinations. Twelve gliders.** From quiet green islands to the Backrooms, a rainbow highway, and the edge of a black hole. Pick your horizon:
 
 <table>
   <tr>
     <td width="50%">
-      <a href="https://glider.game/"><img src="https://glider.game/levels/free-v1.webp" alt="Free Flight: mountains and lakes in an open procedural landscape" /></a>
-      <br /><strong>Free Flight</strong><br />An endless open world. Thirteen flowing biomes. Any direction you choose.
+      <a href="https://glider.game/"><img src="https://glider.game/levels/free-v3.webp" alt="Free Roam: a white paper glider above an Emerald inlet between green mountain slopes" /></a>
+      <br /><strong>Free Roam</strong><br />An endless open world. Thirteen flowing biomes. Any direction you choose.
+    </td>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/race-v4.webp" alt="Free Race: a small paper glider approaching cyan light gates over stormy mountain ridges" /></a>
+      <br /><strong>Free Race</strong><br />Beat the closing gates. Build your streak. Keep racing.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/freestyle-v2.webp" alt="Freestyle: a banked paper glider above cherry-blossom ridges and jade lakes" /></a>
+      <br /><strong>Freestyle</strong><br />Fly close. Build combos. Bank coins.
     </td>
     <td width="50%">
       <a href="https://glider.game/"><img src="https://glider.game/levels/sunset-v1.webp" alt="Sunset Canyon: warm sandstone mesas and stone arches" /></a>
@@ -97,12 +113,38 @@ Alongside that open world, fifteen dedicated ring-chasing levels each have their
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://glider.game/"><img src="https://glider.game/levels/lotus-v1.webp" alt="Lotus Delta: giant lotus blossoms and winding jade waterways at dawn" /></a>
+      <a href="https://glider.game/"><img src="https://glider.game/levels/lotus-v1.webp" alt="Lotus Delta: Skim jade waterways between giant lotus blossoms at first light." /></a>
       <br /><strong>Lotus Delta</strong><br />Skim jade waterways between giant lotus blossoms at first light.
     </td>
     <td width="50%">
-      <a href="https://glider.game/"><img src="https://glider.game/levels/hyperspace-v1.webp" alt="Hyperspace: a rainbow highway through a star-filled sky" /></a>
-      <br /><strong>Hyperspace</strong><br />A rainbow highway beyond the stars, with 1.4× the speed.
+      <a href="https://glider.game/"><img src="https://glider.game/levels/temple-v1.webp" alt="Sunken Temple: Flooded colonnades, waterfalls and turquoise water" /></a>
+      <br /><strong>Sunken Temple</strong><br />Flooded colonnades, waterfalls and turquoise water
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/backrooms-v1.webp" alt="Backrooms: Yellow rooms and fluorescent ceilings" /></a>
+      <br /><strong>Backrooms</strong><br />Yellow rooms and fluorescent ceilings
+    </td>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/paper-v1.webp" alt="Paper Kingdom: Pastel origami mountains and paper cranes" /></a>
+      <br /><strong>Paper Kingdom</strong><br />Pastel origami mountains and paper cranes
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/sector-v1.webp" alt="Null Sector: Black towers, green wireframe valleys and falling code" /></a>
+      <br /><strong>Null Sector</strong><br />Black towers, green wireframe valleys and falling code
+    </td>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/hyperspace-v1.webp" alt="Hyperspace: A rainbow highway beneath stars and nebulae" /></a>
+      <br /><strong>Hyperspace</strong><br />A rainbow highway beneath stars and nebulae
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://glider.game/"><img src="https://glider.game/levels/eventhorizon-v2.webp" alt="Event Horizon: Drift beneath a black hole and its glowing accretion disk" /></a>
+      <br /><strong>Event Horizon</strong><br />Drift beneath a black hole and its glowing accretion disk
     </td>
   </tr>
 </table>
@@ -111,22 +153,29 @@ _These images are captured from the game's actual 3D worlds._
 
 ## Find your wings
 
-Choose from **eight distinct paper planes**, from the familiar Original to more capable gliders with different speed, handling, lift, and boost. Earn coins by flying farther, collecting rings, and reaching distance and altitude milestones, then unlock your next plane in the Hangar.
+Choose from **twelve distinct paper planes**, from the familiar Original to more capable gliders with different speed, handling, lift, boost, and coin rewards. Earn coins through ring streaks, race gates, Freestyle combos, and Free Roam milestones, then unlock your next plane or destination.
 
-There is always another fold to try, another record to beat, or another view worth slowing down for.
+Make each glider your own in the **Workshop**: choose its colours, pattern and finish, then leave a trail of mist, amber, aurora or flowing rainbow light. See your design come alive in a rotating preview before taking it into the sky.
+
+New players start with **420 coins**. Every glider and level can be unlocked through play. Optional coin packs let you support the game and its development if you’d like to.
 
 ## Your sky, on any device
 
 Start on your computer. Pick up on your phone. Come back tomorrow with your progress waiting.
 
-Create a **save code and four-digit PIN**, then enter them once on each device you want to use. Your coins, unlocked gliders and worlds, personal bests, and settings **sync automatically in both directions** when you're online. No email, account registration, or save files to move around.
+Create a **save code and four-digit PIN**, then enter them once on each device you want to use. Your coins, unlocked gliders and worlds, personal bests, glider designs and shared settings **sync automatically in both directions** when you're online. No email, account registration, or save files to move around.
+
+Pitch inversion and loop-the-loop preferences stay on each device, so your controller and touchscreen can each feel right.
 
 ## Ready when you are
 
 - **Desktop:** steer with your mouse, WASD, or arrow keys. Hold Space to charge your throw, release to launch, and hold again to boost.
 - **Mobile:** dedicated thumb controls keep steering and boost comfortably separate.
+- **Xbox controller:** steer with the left stick, use A to select and fly, and hold RT to charge your throw or boost. Play in the browser or the installed app, with controller prompts throughout the menus.
 - **Make it yours:** adjust sensitivity, sound, music, and visual quality. Automatic quality adapts to your device.
 - **Keep it close:** add Glider to your home screen and play offline once the game is cached. Cloud progress catches up when you're back online.
+
+Every player's distance contributes to the shared total on the homepage, including guests. Fly solo. Add a little more sky to everyone's journey.
 
 A quick break. A long wander. One more flight.
 
