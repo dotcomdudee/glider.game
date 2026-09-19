@@ -216,3 +216,5 @@ A quick break. A long wander. One more flight.
 [Follow Glider on Instagram](https://www.instagram.com/glider.game/) · [support@glider.game](mailto:support@glider.game) · [privacy](https://glider.game/privacy/)
 
 (Built with GPT6 Astra and then about 3-4 hours of manual ui tweaks getting it to how I actually wanted it).
+
+Edit: 3-4 hours turned into 10+ days lol.
